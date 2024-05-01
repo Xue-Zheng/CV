@@ -1,97 +1,97 @@
 sidebar:
-    position: right
-    about: True
-    education: True
+  position: right
+  about: True
+  education: True
 
-    # Profile information
-    name: Xue Zheng
-    tagline: Business Owner & Operations Management Assistant
-    avatar: profile.png  # Assuming a profile picture named 'profile.png' is available
+  # Profile information
+  name: Xue Zheng
+  tagline: Business Owner & Operations Management Assistant
+  avatar: profile.png  # Assuming a profile picture named 'profile.png' is available
 
-    # Sidebar links
-    email: clarazheng111@gmail.com
-    phone: 021 02896535
-    timezone: New Zealand Timezone
-    website: # If you have a personal or professional website, add here
-    linkedin: clara-zheng # Adjust the LinkedIn username appropriately
-    github: # If applicable, provide your GitHub username
-    pdf: # If you have a PDF link of your CV or portfolio, add here
+  # Sidebar links
+  email: clarazheng111@gmail.com
+  phone: 021 02896535
+  timezone: New Zealand Timezone
+  website: https://xue-zheng.github.io/CV/
+  linkedin: clara-zheng # Adjust the LinkedIn username appropriately
+  github: # If applicable, provide your GitHub username
+  pdf: # If you have a PDF link of your CV or portfolio, add here
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Professional
+  languages:
+    title: Languages
+    info:
+      - idiom: English
+        level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Dance and Yoga
-        - item: Fitness and Outdoor Activities
-        - item: Music and Singing
+  interests:
+    title: Interests
+    info:
+      - item: Dance and Yoga
+      - item: Fitness and Outdoor Activities
+      - item: Music and Singing
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Accomplished Business Owner and Operation Management Assistant with significant experience in business operations, project management, and IT skills. Skilled in leading teams, designing websites, and implementing marketing strategies that effectively increase company revenue and client satisfaction. Highly organized and adept at improving systems for enhanced performance.
+  title: Career Profile
+  summary: |
+    Accomplished Business Owner and Operation Management Assistant with extensive experience in all phases of business operations and sales process. Recognized for strong IT skills and web development capabilities, managing projects and optimizing administrative processes for sustainable growth.
 
 education:
-    title: Education
-    info:
-      - degree: Master of Applied Computing
-        university: Lincoln University
-        time: 2023 - Present
-        details: |
-          Actively involved in designing and developing software solutions, emphasizing project management, system design, and user experience optimization.
+  title: Education
+  info:
+    - degree: Master of Applied Computing
+      university: Lincoln University
+      time: 2023 - Present
+      details: |
+        Participated in designing and developing software solutions for real-world clients, learning modern software engineering methodologies to enhance project management and teamwork skills.
 
-      - degree: Bachelor of Broadcasting and Hosting Arts
-        university: Wuhan University of Communication
-        time: 2014 - 2028
-        details: |
-          Gained fundamental skills in media studies, communication, and live performance, enhancing abilities in public speaking and multimedia production.
+    - degree: Bachelor of Broadcasting and Hosting Arts
+      university: Wuhan University of Communication
+      time: 2014 - 2018
+      details: |
+        Gained fundamental skills in media studies, communication, and live performance, enhancing abilities in public speaking and multimedia production.
 
 experiences:
-    title: Experiences
-    info:
-      - role: Beauty Therapist and IT Support Specialist
-        time: 2023.9 - Present
-        company: My Beauty Clinic, Christchurch
-        details: |
-          Conduct skin diagnostics; manage web-based systems and plan development of new systems; enhance team communication and operation.
+  title: Experiences
+  info:
+    - role: Beauty Therapist and IT Support Specialist
+      time: 2023.9 - Present
+      company: My Beauty Clinic, Christchurch
+      details: |
+        Conduct skin diagnostics; manage web-based systems and plan development of new systems; enhance team communication and operation.
 
-      - role: Business Owner
-        time: 2020.9 - 2022.12
-        company: Shenzhen Clara Beauty Co. Ltd., Shenzhen, China
-        details: |
-          Developed marketing strategies increasing revenue by 15%, led a team of 5 stylists, designed company websites, and managed inventory effectively.
+    - role: Business Owner
+      time: 2020.9 - 2022.12
+      company: Shenzhen Clara Beauty Co. Ltd., Shenzhen, China
+      details: |
+        Developed marketing strategies increasing revenue by 15%, led a team of 5 stylists, designed company websites, and managed inventory effectively.
 
-      - role: Operation Management Assistant
-        time: 2019.2 - 2020.9
-        company: Xin Jing Tian Group, Shenzhen, China
-        details: |
-          Managed projects, created and oversaw marketing materials, and optimized administrative costs and strategies for sustainable growth.
+    - role: Operation Management Assistant
+      time: 2019.2 - 2020.9
+      company: Xin Jing Tian Group, Shenzhen, China
+      details: |
+        Managed projects, created and oversaw marketing materials, and optimized administrative costs and strategies for sustainable growth.
 
-      - role: Operation Management Assistant and Host
-        time: 2018.11 - 2019.2
-        company: China Zhong' an Guotong Satellite Technology Development, Shenzhen, China
-        details: |
-          Planned and executed events, provided strategic advice, and directed branding and promotional strategies to enhance company presence.
+    - role: Operation Management Assistant and Host
+      time: 2018.11 - 2019.2
+      company: China Zhong' an Guotong Satellite Technology Development, Shenzhen, China
+      details: |
+        Planned and executed events, provided strategic advice, and directed branding and promotional strategies to enhance company presence.
 
 skills:
-    title: Skills & Proficiency
-    toolset:
-      - name: Programming (Python, JavaScript)
-        level: 90%
-      - name: Front-end Development (HTML, CSS, JavaScript, React)
-        level: 90%
-      - name: Back-end Development (Flask)
-        level: 85%
-      - name: Database Management (MySQL)
-        level: 85%
-      - name: Version Control (Git)
-        level: 80%
-      - name: UI/UX Design (Figma)
-        level: 85%
+  title: Skills & Proficiency
+  toolset:
+    - name: Programming (Python, JavaScript)
+      level: 90%
+    - name: Front-end Development (HTML, CSS, JavaScript, React)
+      level: 90%
+    - name: Back-end Development (Flask)
+      level: 85%
+    - name: Database Management (MySQL)
+      level: 85%
+    - name: Version Control (Git)
+      level: 80%
+    - name: UI/UX Design (Figma)
+      level: 85%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Clara Zheng</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Clara Zheng</a>
