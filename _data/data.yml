@@ -33,7 +33,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Accomplished Business Owner and Operation Management Assistant with extensive experience in all phases of business operations and sales process. Recognized for strong IT skills and web development capabilities, managing projects and optimizing administrative processes for sustainable growth.
+    Accomplished Business Owner and Operation Management Assistant with extensive experience in business operations, project management, and IT. Skilled in leading teams, designing websites, and implementing marketing strategies that effectively increase company revenue and client satisfaction. Highly organized and adept at improving systems for enhanced performance.
 
 education:
   title: Education
@@ -42,7 +42,7 @@ education:
       university: Lincoln University
       time: 2023 - Present
       details: |
-        Participated in designing and developing software solutions for real-world clients, learning modern software engineering methodologies to enhance project management and teamwork skills.
+        Actively involved in designing and developing software solutions, emphasizing project management, system design, and user experience optimization.
 
     - degree: Bachelor of Broadcasting and Hosting Arts
       university: Wuhan University of Communication
@@ -53,29 +53,47 @@ education:
 experiences:
   title: Experiences
   info:
+    - role: Software Developer
+      company: Bruce Bay Beans & Bunks Online System
+      time: 2024.04 - Present
+      details: |
+        Contributed within a five-member team to develop a full-stack online system for managing food, drink orders, and tourist accommodation bookings. Led the design of the user interface and user experience utilizing Figma to craft web designs that ensure usability and visual appeal. Responsible for coding both front-end and back-end components, enhancing system performance through efficient coding and ensuring platform stability and user satisfaction.
+
+    - role: Software Developer
+      company: Countryside Community Swimming Club Management System
+      time: 2024.03 - 2024.04
+      details: |
+        Developed an automated management system for a community swimming club to handle member management, aqua aerobics class bookings, and private swim session reservations. Engaged in system design and requirements analysis to ensure all functionalities aligned with the club’s operational needs. Implemented both front-end and back-end functionalities, focusing on efficient coding to ensure swift system responsiveness and smooth user interactions.
+
+    - role: Software Developer
+      company: New Zealand Animal Pest Biosecurity Web Application
+      time: 2024.02 - 2024.03
+      details: |
+        Led the development of a Flask-based web application for managing biosecurity information on animal pests in New Zealand, hosted on PythonAnywhere. Designed and implemented a multi-role security login system, customizing responsive user interfaces for different user roles. Built and maintained a MySQL database containing sensitive data on over 20 types of animal pests and various user profiles, ensuring data security.
+
+    - role: Software Developer
+      company: BRMM Bankside Rakaia Motorkhana Mavens Management System
+      time: 2023.09 - 2023.10
+      details: |
+        Developed and implemented a comprehensive management system for motorsport events, focusing on driver and race data management. Engineered interactive features for data manipulation and visualization, including age-based sorting for junior drivers and symbolic infraction displays. Enhanced system functionality with update capabilities for race results and infractions, ensuring data integrity through rigorous testing.
+
     - role: Beauty Therapist and IT Support Specialist
-      time: 2023.9 - Present
       company: My Beauty Clinic, Christchurch
+      time: 2023.09 - Present
       details: |
         Conduct skin diagnostics; manage web-based systems and plan development of new systems; enhance team communication and operation.
 
     - role: Business Owner
-      time: 2020.9 - 2022.12
       company: Shenzhen Clara Beauty Co. Ltd., Shenzhen, China
+      time: 2020.09 - 2022.12
       details: |
         Developed marketing strategies increasing revenue by 15%, led a team of 5 stylists, designed company websites, and managed inventory effectively.
 
     - role: Operation Management Assistant
-      time: 2019.2 - 2020.9
       company: Xin Jing Tian Group, Shenzhen, China
+      time: 2019.02 - 2020.09
       details: |
         Managed projects, created and oversaw marketing materials, and optimized administrative costs and strategies for sustainable growth.
-
-    - role: Operation Management Assistant and Host
-      time: 2018.11 - 2019.2
-      company: China Zhong' an Guotong Satellite Technology Development, Shenzhen, China
-      details: |
-        Planned and executed events, provided strategic advice, and directed branding and promotional strategies to enhance company presence.
 
 skills:
   title: Skills & Proficiency
