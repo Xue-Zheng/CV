@@ -80,11 +80,11 @@ experiences:
 skills:
     title: Skills & Proficiency
     toolset:
-      - name: Programming (Java, Python, JavaScript)
+      - name: Programming (Python, JavaScript)
         level: 90%
-      - name: Front-end Development (HTML, CSS, JavaScript, React, Vue.js)
+      - name: Front-end Development (HTML, CSS, JavaScript, React)
         level: 90%
-      - name: Back-end Development (Django)
+      - name: Back-end Development (Flask)
         level: 85%
       - name: Database Management (MySQL)
         level: 85%
