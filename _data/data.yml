@@ -64,6 +64,12 @@ experiences:
       details: |
         Developed an Android-compatible offline data collection app integrated with Workbench Service Desk using React Native and Android Studio. Implemented features for text, photo, and GPS capture, and synchronized data with ArcGIS and Workbench. Built backend APIs with Node.js/Express, ensuring secure data storage and transfer. Utilized Git for version control and Jenkins for CI/CD, managing the full development lifecycle.
 
+    - role: Volunteer
+      company: Recycle a Device (RAD) Club
+      time: 2024.06 - Present
+      details: |
+        Collaborated with the RAD Club to promote environmental sustainability and technological accessibility through device recycling. Participated in weekly meetings to develop efficient plans for device collection, refurbishment, and distribution. Attended training sessions to gain in-depth knowledge of the technical and operational aspects of the recycling process. Applied my expertise in computing and software engineering to provide technical support and innovative solutions for the club's activities.
+        
     - role: Software Developer
       company: Bruce Bay Beans & Bunks Online System
       time: 2024.04 - 2024.06
