@@ -17,12 +17,6 @@ sidebar:
   github: # If applicable, provide your GitHub username
   pdf: # If you have a PDF link of your CV or portfolio, add here
 
- certificate:
-    title: Microsoft Certified
-    info:
-      - idiom: Azure AI Fundamentals
-        level: Professional
-        
   languages:
     title: Languages
     info:
