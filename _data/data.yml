@@ -12,35 +12,17 @@ sidebar:
   email: clarazheng111@gmail.com
   phone: 021318577
   timezone: New Zealand Timezone
-  website: https://xue-zheng.github.io/CV/
-  linkedin: clara-zheng
-  github: Xue-Zheng
-  pdf: 
+  linkedin: https://www.linkedin.com/in/xue-zheng/
+  github: https://github.com/Xue-Zheng?tab=repositories
 
-  languages:
-    title: Languages
+  qualifications:
+    title: Qualifications
     info:
-      - idiom: English and Chinese
-        level: Professional
-        
-  certifications:
-    title: Certifications
-    info:
+      - item: Full New Zealand driver's license
+        level: Full
       - item: Microsoft Certified - Azure AI Fundamentals
         details: Issued by Microsoft
-
-  languages:
-    title: Driving Qualifications
-    info:
-      - idiom: Full New Zealand driver's license
-        level: Advanced
-        
-  interests:
-    title: Interests
-    info:
-      - item: Dance and Yoga
-      - item: Fitness and Outdoor Activities
-      - item: Music and Singing
+        link: https://www.credly.com/your-badge-id   # 需要您提供实际的证书链接
 
 career-profile:
   title: Career Profile
@@ -113,12 +95,6 @@ experiences:
       details: |
         Developed marketing strategies increasing revenue by 15%, led a team of 5 stylists, designed company websites, and managed inventory effectively.
 
-    - role: Operation Management Assistant
-      company: Xin Jing Tian Group, Shenzhen, China
-      time: 2019.02 - 2020.09
-      details: |
-        Managed projects, created and oversaw marketing materials, and optimized administrative costs and strategies for sustainable growth.
-
 skills:
   title: Skills & Proficiency
   toolset:
@@ -134,6 +110,22 @@ skills:
       level: 80%
     - name: UI/UX Design (Figma)
       level: 85%
+
+portfolio:
+  title: Portfolio Overview
+  info:
+    - project: CORDE Offline Data Collection Application
+      details: Full-stack mobile app developed with React Native and Node.js, featuring offline data collection, ArcGIS integration, and secure data synchronization.
+
+    - project: Countryside Community Swimming Club Management System
+      details: Full-stack web application showcasing comprehensive user management, booking system, and responsive design.
+
+    - project: Bruce Bay Beans & Bunks Online System
+      details: Full-stack solution featuring food ordering and accommodation booking with integrated payment system.
+
+    - project: Online CV
+      details: Personal portfolio website
+      link: https://xue-zheng.github.io/CV/
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Clara Zheng</a>
