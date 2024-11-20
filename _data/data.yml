@@ -6,16 +6,16 @@ sidebar:
   # Profile information
   name: Xue (Clara) Zheng
   tagline: Full Stack Developer & UI/UX Designer
-  avatar: profile.png  # Assuming a profile picture named 'profile.png' is available
+  avatar: profile.png
 
   # Sidebar links
   email: clarazheng111@gmail.com
   phone: 021318577
   timezone: New Zealand Timezone
-  website: https://github.com/Xue-Zheng
-  linkedin: clara-zheng # Adjust the LinkedIn username appropriately
-  github: # If applicable, provide your GitHub username
-  pdf: # If you have a PDF link of your CV or portfolio, add here
+  website: https://xue-zheng.github.io/CV/
+  linkedin: clara-zheng
+  github: Xue-Zheng
+  pdf: 
 
   languages:
     title: Languages
@@ -23,6 +23,12 @@ sidebar:
       - idiom: English and Chinese
         level: Professional
         
+  certifications:
+    title: Certifications
+    info:
+      - item: Microsoft Certified - Azure AI Fundamentals
+        details: Issued by Microsoft
+
   languages:
     title: Driving Qualifications
     info:
