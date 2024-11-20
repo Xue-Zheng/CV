@@ -14,26 +14,25 @@ sidebar:
   timezone: New Zealand Timezone
   linkedin: clara-zheng
   github: Xue-Zheng
-  pdf: 
 
   languages:
     title: Languages
     info:
       - idiom: English and Chinese
         level: Professional
-
-  languages:
+        
+  driving:
     title: Driving Qualifications
     info:
       - idiom: Full New Zealand driver's license
         level: Advanced
         
-   certifications:
+  certifications:
     title: Certifications
     info:
       - item: Microsoft Certified - Azure AI Fundamentals
         details: Issued by Microsoft
-        
+
 career-profile:
   title: Career Profile
   summary: |
