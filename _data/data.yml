@@ -12,10 +12,10 @@ sidebar:
   email: clarazheng111@gmail.com
   phone: 021318577
   timezone: New Zealand Timezone
-  linkedin: Clara Zheng
-  github: Xue-Zheng
+  LinkedIn: Clara Zheng
+  GitHub: Xue-Zheng
 
-  qualifications:
+qualifications:
     title: Qualifications
     info:
       - item: Full New Zealand driver's license
@@ -34,15 +34,9 @@ education:
   info:
     - degree: Master of Applied Computing
       university: Lincoln University
-      time: 2023 - Present
+      time: 2023.07 - 2024.11
       details: |
         Actively involved in designing and developing software solutions, emphasizing project management, system design, and user experience optimization.
-
-    - degree: Bachelor of Broadcasting and Hosting Arts
-      university: Wuhan University of Communication
-      time: 2014 - 2018
-      details: |
-        Gained fundamental skills in media studies, communication, and live performance, enhancing abilities in public speaking and multimedia production.
 
 experiences:
   title: Experiences
