@@ -12,7 +12,6 @@ sidebar:
   email: clarazheng111@gmail.com
   phone: 021318577
   timezone: New Zealand Timezone
-  website: https://xue-zheng.github.io/CV/
   linkedin: clara-zheng
   github: Xue-Zheng
   pdf: 
@@ -22,12 +21,6 @@ sidebar:
     info:
       - idiom: English and Chinese
         level: Professional
-        
-  certifications:
-    title: Certifications
-    info:
-      - item: Microsoft Certified - Azure AI Fundamentals
-        details: Issued by Microsoft
 
   languages:
     title: Driving Qualifications
@@ -35,13 +28,12 @@ sidebar:
       - idiom: Full New Zealand driver's license
         level: Advanced
         
-  interests:
-    title: Interests
+   certifications:
+    title: Certifications
     info:
-      - item: Dance and Yoga
-      - item: Fitness and Outdoor Activities
-      - item: Music and Singing
-
+      - item: Microsoft Certified - Azure AI Fundamentals
+        details: Issued by Microsoft
+        
 career-profile:
   title: Career Profile
   summary: |
