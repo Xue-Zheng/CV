@@ -22,12 +22,12 @@ qualifications:
         level: Full
       - item: Microsoft Certified - Azure AI Fundamentals
         details: Issued by Microsoft
-        link: https://www.credly.com/your-badge-id   # 需要您提供实际的证书链接
+        link: https://www.credly.com/your-badge-id
 
 career-profile:
   title: Career Profile
   summary: |
-    Recent Master of Applied Computing graduate with six months of professional experience as a Full Stack Developer at CORDE. Skilled in full-stack development including React, React Native, Node.js, and Python/Flask, with hands-on experience in developing mobile applications and web-based systems. Strong background in quality assurance and proven ability to deliver high-quality software solutions through collaborative team environments. Seeking a challenging role to leverage my technical expertise and contribute to innovative projects.
+    As a recent Master of Applied Computing graduate from Lincoln University with seven months of hands-on experience as a Full Stack Developer at CORDE, I am a software engineer proficient in full-stack development. Through my current role at CORDE developing an offline data collection application and other practical projects, I am skilled in front-end technologies (React, React Native, HTML, CSS, JavaScript) and back-end development (Python, Flask, Node.js), with strong database design and management capabilities. My project experience includes developing Android-compatible applications, online ordering systems (Bruce Bay), and other full-stack solutions, demonstrating my expertise in system architecture, API development, and database management. Combined with my background in quality assurance, I have a strong emphasis on product quality and excel in project management and team collaboration.
 
 education:
   title: Education
@@ -36,7 +36,18 @@ education:
       university: Lincoln University
       time: 2023.07 - 2024.11
       details: |
-        Actively involved in designing and developing software solutions, emphasizing project management, system design, and user experience optimization.
+        - Studio Project: Actively engaged in real-world software development projects, gaining comprehensive knowledge of software engineering practices.
+        - Software Development: Mastered end-to-end software development lifecycle using Java and Python.
+        - Advanced Database: Gained in-depth knowledge of relational and NoSQL databases.
+        - User Experience: Specialized in UI design and UX optimization.
+        - Neural Networks Applications: Developed understanding of neural networks and deep learning.
+        - Industry Project: Led full-cycle software development project with industry partner.
+
+    - degree: Bachelor of Broadcasting and Hosting Arts
+      university: Wuhan University of Communication
+      time: 2014 - 2018
+      details: |
+        Studied media fundamentals, communication training, and program production.
 
 experiences:
   title: Experiences
@@ -45,54 +56,71 @@ experiences:
       company: CORDE Offline Data Collection Application
       time: 2024.06 - Present
       details: |
-        Developed an Android-compatible offline data collection app integrated with Workbench Service Desk using React Native and Android Studio. Implemented features for text, photo, and GPS capture, and synchronized data with ArcGIS and Workbench. Built backend APIs with Node.js/Express, ensuring secure data storage and transfer. Utilized Git for version control and Jenkins for CI/CD, managing the full development lifecycle.
+        - Led development of cross-platform mobile application for offline data collection integrated with Workbench Service Desk
+        - Implemented offline-first architecture using SQLite for seamless data capture
+        - Integrated Workbench for real-time task management
+        - Enhanced geospatial mapping features using ArcGIS SDK
+        - Improved code maintainability using TypeScript
+        - Streamlined agile delivery through sprint planning and peer code reviews
 
-    - role: Volunteer
+    - role: IT Support Volunteer
       company: Recycle a Device (RAD) Club
-      time: 2024.06 - Present
+      time: 2024.07 - Present
       details: |
-        Collaborated with the RAD Club to promote environmental sustainability and technological accessibility through device recycling. Participated in weekly meetings to develop efficient plans for device collection, refurbishment, and distribution. Attended training sessions to gain in-depth knowledge of the technical and operational aspects of the recycling process. Applied my expertise in computing and software engineering to provide technical support and innovative solutions for the club's activities.
-        
+        Collaborated with the RAD Club to promote environmental sustainability and technological accessibility through device recycling. Participated in weekly meetings and provided technical support for the club's activities.
+
     - role: Full Stack Developer
       company: Bruce Bay Beans & Bunks Online System
       time: 2024.04 - 2024.06
       details: |
-        Contributed within a five-member team to develop a full-stack online system for managing food, drink orders, and tourist accommodation bookings. Led the design of the user interface and user experience utilizing Figma to craft web designs that ensure usability and visual appeal. Responsible for coding both front-end and back-end components, enhancing system performance through efficient coding and ensuring platform stability and user satisfaction.
+        Led UI/UX design and development of a full-stack online system for managing food, drink orders, and tourist accommodation bookings. Used Figma for design and implemented both front-end and back-end components.
 
     - role: Full Stack Developer
       company: Countryside Community Swimming Club Management System
       time: 2024.03 - 2024.04
       details: |
-        Developed an automated management system for a community swimming club to handle member management, aqua aerobics class bookings, and private swim session reservations. Engaged in system design and requirements analysis to ensure all functionalities aligned with the club's operational needs. Implemented both front-end and back-end functionalities, focusing on efficient coding to ensure swift system responsiveness and smooth user interactions.
+        Developed an automated management system handling member management, class bookings, and session reservations. Focused on system design, requirements analysis, and efficient coding for optimal performance.
 
     - role: Full Stack Developer
       company: New Zealand Animal Pest Biosecurity Web Application
       time: 2024.02 - 2024.03
       details: |
-        Led the development of a Flask-based web application for managing biosecurity information on animal pests in New Zealand, hosted on PythonAnywhere. Designed and implemented a multi-role security login system, customizing responsive user interfaces for different user roles. Built and maintained a MySQL database containing sensitive data on over 20 types of animal pests and various user profiles, ensuring data security.
+        Led development of Flask-based web application for biosecurity information management. Implemented multi-role security login system and maintained MySQL database for sensitive pest data.
 
     - role: Full Stack Developer
       company: BRMM Bankside Rakaia Motorkhana Mavens Management System
       time: 2023.09 - 2023.10
       details: |
-        Developed and implemented a comprehensive management system for motorsport events, focusing on driver and race data management. Engineered interactive features for data manipulation and visualization, including age-based sorting for junior drivers and symbolic infraction displays. Enhanced system functionality with update capabilities for race results and infractions, ensuring data integrity through rigorous testing.
+        Developed comprehensive management system for motorsport events, implementing interactive features for data manipulation and visualization. Enhanced system functionality with update capabilities and rigorous testing.
 
-    - role: Beauty Therapist and IT Support Specialist
-      company: My Beauty Clinic, Christchurch
-      time: 2023.09 - Present
+    - role: AI Developer
+      company: Air Quality Prediction Using Neural Networks
+      time: 2024.05 - 2024.06
       details: |
-        Conduct skin diagnostics; manage web-based systems and plan development of new systems; enhance team communication and operation.
+        Developed predictive model using MLP in TensorFlow for air quality metrics estimation. Applied feature engineering and achieved high R² score through hyperparameter tuning.
 
-    - role: Business Owner
-      company: Shenzhen Clara Beauty Co. Ltd., Shenzhen, China
-      time: 2020.09 - 2022.12
+    - role: AI Developer
+      company: Body Fat Percentage Prediction Using Neural Networks
+      time: 2024.04 - 2024.05
       details: |
-        Developed marketing strategies increasing revenue by 15%, led a team of 5 stylists, designed company websites, and managed inventory effectively.
+        Implemented regression-based neural network for body fat percentage prediction, utilizing sensitivity analysis and dimensionality reduction techniques.
+
+    - role: AI Developer
+      company: Financial Data Classification Using Neural Networks
+      time: 2024.03 - 2024.04
+      details: |
+        Built multi-class classification model for financial transactions, implementing class-balancing techniques and embedding methods for optimal performance.
+
+    - role: AI Developer
+      company: Sentiment Analysis with Deep Learning
+      time: 2024.02 - 2024.03
+      details: |
+        Developed CNN-based sentiment analysis model using pre-trained word embeddings, achieving high F1 scores across sentiment categories.
 
 skills:
   title: Skills & Proficiency
   toolset:
-    - name: Programming (Python, JavaScript)
+    - name: Programming (Python, JavaScript, TypeScript)
       level: 90%
     - name: Front-end Development (HTML, CSS, JavaScript, React, React Native)
       level: 90%
@@ -104,6 +132,8 @@ skills:
       level: 80%
     - name: UI/UX Design (Figma)
       level: 85%
+    - name: Neural Networks & Deep Learning
+      level: 80%
 
 portfolio:
   title: Portfolio Overview
